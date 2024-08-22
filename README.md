@@ -5,7 +5,7 @@ Collecting real-world human activity measurements from a wearable sensor on part
 
 Cleaning the data and further processing the signals due to inconsistencies in sampling rates from the multiple sensor sources.
 
-Data annotation by manually labelling the sensor measurements with unique integer values using a BI intelligence tool.
+Data annotation was done by manually labelling the sensor measurements with unique integer values using a business intelligence tool.
 
 Data modelling by combining multiple sensor measurements (IMU, ECG, and pressure) to create a homogenous dataset.
 
