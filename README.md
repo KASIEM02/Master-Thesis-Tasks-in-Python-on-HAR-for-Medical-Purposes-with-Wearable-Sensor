@@ -3,7 +3,7 @@ Some of the tasks involved are:
 
 Collecting real-world human activity measurements from a wearable sensor on participants.
 
-Cleaning the data and pre-processing the signals due to inconsistencies in sampling rates from the multiple sensor sources.
+Cleaning the data and further processing the signals due to inconsistencies in sampling rates from the multiple sensor sources.
 
 Data annotation by manually labelling the sensor measurements with unique integer values using a BI intelligence tool.
 
