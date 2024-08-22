@@ -11,4 +11,4 @@ Data modelling by combining multiple sensor measurements (IMU, ECG, and pressure
 
 Designed 1D CNN, LSTM, and 1D CNN-LSTM for comparison.
 
-Conversion of the best-performing model to TFlite for deployment in an ARM M7 Cortex microcontroller.
+Conversion of the best-performing model to TFlite for deployment in an ARM Cortex M7 microcontroller.
