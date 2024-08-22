@@ -1,0 +1,1 @@
+# Master-Thesis-Tasks-in-Python-on-HAR-for-Medical-Purposes-with-Wearable-Sensor
