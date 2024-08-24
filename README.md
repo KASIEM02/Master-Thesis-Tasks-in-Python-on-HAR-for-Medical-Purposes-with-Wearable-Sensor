@@ -4,7 +4,7 @@ Some of the tasks involved are:
 Collecting real-world human activity measurements from a wearable sensor on participants and single-person physical activities.
 
 ![Alt Text](image-url)
-![Sensor Image](The wearable sensors used in my Masters Thesis tasks.jpg)
+![Sensor Image]([The wearable sensors used in my Masters Thesis tasks.jpg](https://github.com/KASIEM02/Master-Thesis-Tasks-in-Python-on-HAR-for-Medical-Purposes-with-Wearable-Sensor/edit/main/README.md))
 
 
 
