@@ -1,5 +1,5 @@
 # Master-Thesis-on-HAR-for-Medical-Purposes-with-Wearable-Sensor
-Objective: To monitor patient health in real-time, aid diagnosis and therapy \
+Objective: To monitor patient health in real-time, aid diagnosis and therapy \\
 Some of the tasks involved are:
 
 * Collecting real-world human activity measurements from  wearable sensors on participants and single-person physical activities.
