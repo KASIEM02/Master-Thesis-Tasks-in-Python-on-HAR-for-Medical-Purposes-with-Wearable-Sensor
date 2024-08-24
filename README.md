@@ -3,7 +3,7 @@ Some of the tasks involved are:
 
 Collecting real-world human activity measurements from a wearable sensor on participants and single-person physical activities.
 
-![Alt Text](image-url)
+![Sensor Image](image-url)
 ![Sensor Image](The wearable sensors used in my Masters Thesis tasks.jpg)
 
 
