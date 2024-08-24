@@ -1,7 +1,12 @@
 # Master-Thesis-Tasks-in-Python-on-HAR-for-Medical-Purposes-with-Wearable-Sensor
 Some of the tasks involved are:
 
-Collecting real-world human activity measurements from a wearable sensor on participants.
+Collecting real-world human activity measurements from a wearable sensor on participants and single-person physical activities.
+
+![Alt Text](image-url)
+![Sensor Image](The wearable sensors used in my Masters Thesis tasks.jpg)
+
+
 
 Cleaning the data and processing the signals by upsampling collected measurements due to inconsistencies in sampling rates from the multiple sensor sources.
 
