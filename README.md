@@ -8,9 +8,9 @@ Some of the tasks involved are:
 
 
 
-* *Cleaning the data and processing the signals by upsampling collected measurements due to inconsistencies in sampling rates from the multiple sensor sources.
+* Cleaning the data and processing the signals by upsampling collected measurements due to inconsistencies in sampling rates from multiple sensor sources of a device.
 
-* Data annotation was done by manually labelling the sensor measurements with unique integer values using a business intelligence tool.
+* Data annotation was done by manually labelling the sensor measurements with unique integer values using Microsoft Excel.
 
 * Data modelling by combining multiple sensor measurements (IMU, ECG, and pressure) to create a homogenous dataset.
 
